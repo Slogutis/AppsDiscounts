@@ -23,3 +23,7 @@ Changelog
 0.0 
 
 - Release
+
+
+
+https://raw.githubusercontent.com/Slogutis/AppsDisconts/master/ScreenShot_20170104174952.png
