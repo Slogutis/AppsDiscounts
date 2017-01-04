@@ -5,7 +5,7 @@ Changelog
 
 0.0-2
 - Fix Script Error
-
+- Fix bugs
 
 
 
