@@ -26,4 +26,4 @@ Changelog
 
 
 
-![alt text](ScreenShot_20170104174952.png "Description goes here")
+![alt text](ScreenShot_20170104174952.png "Picture")
