@@ -3,6 +3,13 @@ Show latest offers for App only for windows
 
 Changelog
 
+0.0-3
+
+- Fix "Unable to load message when click Special Offers"
+
+
+
+
 0.0-2
 - Fix Script Error ( Message )
 - Fix bugs
