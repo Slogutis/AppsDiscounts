@@ -26,4 +26,4 @@ Changelog
 
 
 
-https://raw.githubusercontent.com/Slogutis/AppsDisconts/master/ScreenShot_20170104174952.png
+![alt text](AppsDisconts/ScreenShot_20170104174952.png "Description goes here")
