@@ -1,7 +1,14 @@
 # AppsDisconts
 Show latest offers for App only for windows
 
-Changelog 
+Changelog
+
+0.0-2
+- Fix Script Error
+
+
+
+
 
 0.0-1
 
