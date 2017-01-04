@@ -4,7 +4,7 @@ Show latest offers for App only for windows
 Changelog
 
 0.0-2
-- Fix Script Error
+- Fix Script Error ( Message )
 - Fix bugs
 
 
