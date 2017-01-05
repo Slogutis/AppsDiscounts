@@ -3,6 +3,13 @@ Show latest offers for App only for windows
 
 Changelog
 
+0.0-5
+
+- Fix topwaresale button 
+- Fix background and button in "Special Offers"
+- Remove AboutBox 
+
+
 0.0-4
 
 - redesign button on the start
