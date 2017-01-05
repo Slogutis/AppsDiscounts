@@ -1,0 +1,30 @@
+C:\Users\d-_-x\AppData\Local\Temporary Projects\AppsDiscounts\bin\Debug\AppsDiscounts.exe
+C:\Users\d-_-x\AppData\Local\Temporary Projects\AppsDiscounts\bin\Debug\AppsDiscounts.pdb
+C:\Users\d-_-x\AppData\Local\Temporary Projects\AppsDiscounts\bin\Debug\AppsDiscounts.xml
+C:\Users\d-_-x\AppData\Local\Temporary Projects\AppsDiscounts\obj\x86\Debug\AppsDiscounts.AboutBox1.resources
+C:\Users\d-_-x\AppData\Local\Temporary Projects\AppsDiscounts\obj\x86\Debug\AppsDiscounts.Form1.resources
+C:\Users\d-_-x\AppData\Local\Temporary Projects\AppsDiscounts\obj\x86\Debug\AppsDiscounts.GOTD.resources
+C:\Users\d-_-x\AppData\Local\Temporary Projects\AppsDiscounts\obj\x86\Debug\AppsDiscounts.Resources.resources
+C:\Users\d-_-x\AppData\Local\Temporary Projects\AppsDiscounts\obj\x86\Debug\AppsDiscounts.SOS.resources
+C:\Users\d-_-x\AppData\Local\Temporary Projects\AppsDiscounts\obj\x86\Debug\AppsDiscounts.wind.resources
+C:\Users\d-_-x\AppData\Local\Temporary Projects\AppsDiscounts\obj\x86\Debug\AppsDiscounts.vbproj.GenerateResource.Cache
+C:\Users\d-_-x\AppData\Local\Temporary Projects\AppsDiscounts\obj\x86\Debug\AppsDiscounts.exe
+C:\Users\d-_-x\AppData\Local\Temporary Projects\AppsDiscounts\obj\x86\Debug\AppsDiscounts.xml
+C:\Users\d-_-x\AppData\Local\Temporary Projects\AppsDiscounts\obj\x86\Debug\AppsDiscounts.pdb
+C:\Users\d-_-x\onedrive\documents\visual studio 2010\Projects\AppsDiscounts\AppsDiscounts\bin\Debug\AppsDiscounts.exe
+C:\Users\d-_-x\onedrive\documents\visual studio 2010\Projects\AppsDiscounts\AppsDiscounts\bin\Debug\AppsDiscounts.pdb
+C:\Users\d-_-x\onedrive\documents\visual studio 2010\Projects\AppsDiscounts\AppsDiscounts\bin\Debug\AppsDiscounts.xml
+C:\Users\d-_-x\onedrive\documents\visual studio 2010\Projects\AppsDiscounts\AppsDiscounts\obj\x86\Debug\AppsDiscounts.Form1.resources
+C:\Users\d-_-x\onedrive\documents\visual studio 2010\Projects\AppsDiscounts\AppsDiscounts\obj\x86\Debug\AppsDiscounts.GC.resources
+C:\Users\d-_-x\onedrive\documents\visual studio 2010\Projects\AppsDiscounts\AppsDiscounts\obj\x86\Debug\AppsDiscounts.GOTD.resources
+C:\Users\d-_-x\onedrive\documents\visual studio 2010\Projects\AppsDiscounts\AppsDiscounts\obj\x86\Debug\AppsDiscounts.le.resources
+C:\Users\d-_-x\onedrive\documents\visual studio 2010\Projects\AppsDiscounts\AppsDiscounts\obj\x86\Debug\AppsDiscounts.Limt.resources
+C:\Users\d-_-x\onedrive\documents\visual studio 2010\Projects\AppsDiscounts\AppsDiscounts\obj\x86\Debug\AppsDiscounts.Resources.resources
+C:\Users\d-_-x\onedrive\documents\visual studio 2010\Projects\AppsDiscounts\AppsDiscounts\obj\x86\Debug\AppsDiscounts.softp.resources
+C:\Users\d-_-x\onedrive\documents\visual studio 2010\Projects\AppsDiscounts\AppsDiscounts\obj\x86\Debug\AppsDiscounts.SOS.resources
+C:\Users\d-_-x\onedrive\documents\visual studio 2010\Projects\AppsDiscounts\AppsDiscounts\obj\x86\Debug\AppsDiscounts.wind.resources
+C:\Users\d-_-x\onedrive\documents\visual studio 2010\Projects\AppsDiscounts\AppsDiscounts\obj\x86\Debug\AppsDiscounts.vbproj.GenerateResource.Cache
+C:\Users\d-_-x\onedrive\documents\visual studio 2010\Projects\AppsDiscounts\AppsDiscounts\obj\x86\Debug\AppsDiscounts.exe
+C:\Users\d-_-x\onedrive\documents\visual studio 2010\Projects\AppsDiscounts\AppsDiscounts\obj\x86\Debug\AppsDiscounts.xml
+C:\Users\d-_-x\onedrive\documents\visual studio 2010\Projects\AppsDiscounts\AppsDiscounts\obj\x86\Debug\AppsDiscounts.pdb
+C:\Users\d-_-x\onedrive\documents\visual studio 2010\Projects\AppsDiscounts\AppsDiscounts\obj\x86\Debug\AppsDiscounts.topweresale.resources
