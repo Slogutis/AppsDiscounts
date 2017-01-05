@@ -1,4 +1,4 @@
-# AppsDisconts
+# AppsDiscounts
 Show latest offers for App only for windows
 
 Changelog
