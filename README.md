@@ -3,6 +3,11 @@ Show latest offers for App only for windows
 
 Changelog
 
+0.0-6
+
+- Fix small bugs :)
+
+
 0.0-5
 
 - Fix topwaresale button 
