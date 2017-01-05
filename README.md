@@ -3,6 +3,15 @@ Show latest offers for App only for windows
 
 Changelog
 
+0.0-4
+
+- redesign button on the start
+- add new background 
+- add topwaresale site
+- remove softpedia 
+- Fix bugs
+
+
 0.0-3
 
 - Fix "Unable to load message when click Special Offers"
@@ -33,4 +42,4 @@ Changelog
 
 
 
-![alt text](ScreenShot_20170104174952.png "Picture")
+![alt text](picture.png "Picture")
