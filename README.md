@@ -53,6 +53,6 @@ Changelog
 
 - Release
 
-
+mail me from https://slogutis.github.io/Blog/
 
 ![alt text](picture.png "Picture")
